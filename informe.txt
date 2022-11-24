@@ -1,0 +1,7 @@
+********************
+Informe de ventas
+********************
+- Cantidad de unidades vendidas totales: 306
+- Cantidad de ventas por un monto mayor a $10000: 89
+- Cantidad de ventas por un monto mayor a $20000: 61
+- Cantidad de autos modelo falcon vendidos: 24
